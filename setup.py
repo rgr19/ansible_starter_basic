@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='ansible_starter',
-    version='0.1',
+    version='0.1.1',
     scripts=['ansible_starter.sh'],
     author="Robert Grzelka",
     author_email="robert.grzelka@outlook.com",

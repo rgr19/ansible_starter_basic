@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ansible-starter
-Version: 0.1
+Version: 0.1.1
 Summary: Bash script for creating fully functional ansible project.
 Home-page: https://github.com/rgr19/ansible_starter
 Author: Robert Grzelka
