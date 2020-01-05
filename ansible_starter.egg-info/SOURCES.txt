@@ -1,0 +1,7 @@
+README.md
+ansible_starter.sh
+setup.py
+ansible_starter.egg-info/PKG-INFO
+ansible_starter.egg-info/SOURCES.txt
+ansible_starter.egg-info/dependency_links.txt
+ansible_starter.egg-info/top_level.txt
